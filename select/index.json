@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヰ世界の宝石譚",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2026-03-13T07:32:17.811616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヰ世界の宝石譚",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/01_ヰ世界の宝石譚_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヰ世界の宝石譚",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_ヰ世界の宝石譚_ヰ世界情緒.txt"
+    }
+  ]
+}
